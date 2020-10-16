@@ -1,0 +1,7 @@
+G:\Code\Visual Studio\JC_TranstlateReturnValue\JC_TranstlateReturnValue\obj\Debug\JC_TranstlateReturnValue.csprojAssemblyReference.cache
+G:\Code\Visual Studio\JC_TranstlateReturnValue\JC_TranstlateReturnValue\obj\Debug\JC_TranstlateReturnValue.csproj.CoreCompileInputs.cache
+G:\Code\Visual Studio\JC_TranstlateReturnValue\JC_TranstlateReturnValue\bin\Debug\JC_TranstlateReturnValue.exe.config
+G:\Code\Visual Studio\JC_TranstlateReturnValue\JC_TranstlateReturnValue\bin\Debug\JC_TranstlateReturnValue.exe
+G:\Code\Visual Studio\JC_TranstlateReturnValue\JC_TranstlateReturnValue\bin\Debug\JC_TranstlateReturnValue.pdb
+G:\Code\Visual Studio\JC_TranstlateReturnValue\JC_TranstlateReturnValue\obj\Debug\JC_TranstlateReturnValue.exe
+G:\Code\Visual Studio\JC_TranstlateReturnValue\JC_TranstlateReturnValue\obj\Debug\JC_TranstlateReturnValue.pdb
